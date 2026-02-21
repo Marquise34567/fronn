@@ -147,7 +147,7 @@ export default function Landing({ onStart }: { onStart?: () => void }) {
               </div>
             </div>
 
-            <div className="glass-card p-8 transform scale-101 shadow-2xl border border-white/6">
+            <div className="glass-card p-8 transform scale-[1.01] shadow-2xl border border-white/6">
               <div className="text-sm text-white/80">Premium</div>
               <div className="text-4xl font-bold mt-4">$7/mo</div>
               <ul className="mt-4 text-white/80 space-y-2">
